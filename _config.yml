@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My website
+title: Ben Joens
 
 # Your name to show in the footer
 author: Ben Joens
@@ -21,9 +21,8 @@ author: Ben Joens
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Projects: "projects"
+  Resume: "assets/pdf/resume"
 
 ################
 # --- Logo --- #
